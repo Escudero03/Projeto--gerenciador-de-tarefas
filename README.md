@@ -9,13 +9,11 @@
 
                                                                         
 
-Bem-vindo ao **Gerenciador de Tarefas**, um aplicativo simples e funcional para organizar suas tarefas diárias! Desenvolvido com paixão e cuidado, este projeto permite adicionar, editar, concluir e excluir tarefas de forma intuitiva, com uma interface gráfica amigável.
+Bem-vindo ao **Gerenciador de Tarefas**, um exemplo de aplicativo simples e funcional para organizar suas tarefas diárias! Desenvolvido com paixão e cuidado, este projeto permite adicionar, editar, concluir e excluir tarefas de forma intuitiva, com uma interface gráfica amigável.
 
-  ![Logo do projeto](teste gerenciador.png)
+  ![Logo do projeto](teste-gerenciador.png)
                       
-*(Imagem placeholder - substitua por um screenshot do app se desejar!)*
 
----
 
 ## ✨ Funcionalidades
 - **Adicionar Tarefas**: Crie novas tarefas com título, categoria, data de vencimento e status (concluída ou não).

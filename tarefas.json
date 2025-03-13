@@ -1,9 +1,9 @@
 [
     {
         "titulo": "casa 2",
-        "categoria": "nova",
+        "categoria": "alugada",
         "data_vencimento": "2025-02-10",
-        "concluida": false
+        "concluida": true
     },
     {
         "titulo": "igreja 1",
@@ -12,15 +12,15 @@
         "concluida": true
     },
     {
-        "titulo": "111",
-        "categoria": "5555",
-        "data_vencimento": "2025-12-12",
+        "titulo": "Fa\u00e7a vc o teste ",
+        "categoria": "Desenvolvedor",
+        "data_vencimento": "2025-03-01",
         "concluida": true
     },
     {
-        "titulo": "222",
-        "categoria": "222",
-        "data_vencimento": "2025-12-11",
+        "titulo": "Adicione Aqui",
+        "categoria": "Desenvolvendo",
+        "data_vencimento": "2025-02-10",
         "concluida": false
     }
 ]

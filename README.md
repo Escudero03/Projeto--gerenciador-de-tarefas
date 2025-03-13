@@ -27,7 +27,7 @@ Bem-vindo ao **Gerenciador de Tarefas**, um exemplo de aplicativo simples e func
 ## 🚀 Como Testar Online
 Você pode testar o Gerenciador de Tarefas diretamente no navegador, sem precisar baixar ou instalar nada!  
 1. Clique [aqui](https://replit.com/@joseescudero03/Projeto-gerenciador-de-tarefas) para acessar o projeto no Replit.  
-2. Pressione o botão **"Run"** (triângulo verde)  ou **"stop"## em (cinza) , se trava pressione novamente o botao no topo da página.  
+2. Pressione o botão **"Run"** (triângulo verde)  ou **"stop"** em (cinza) , se trava pressione novamente o botao no topo da página.  
 3. A interface gráfica será exibida, pronta para uso!
 
 > **Nota**: No plano gratuito do Replit, o aplicativo "dorme" após um período sem uso. Basta clicar em "Run" novamente para reativá-lo.

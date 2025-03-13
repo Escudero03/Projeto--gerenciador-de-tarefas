@@ -27,7 +27,7 @@ Bem-vindo ao **Gerenciador de Tarefas**, um exemplo de aplicativo simples e func
 ## 🚀 Como Testar Online
 Você pode testar o Gerenciador de Tarefas diretamente no navegador, sem precisar baixar ou instalar nada!  
 1. Clique [aqui](https://replit.com/@joseescudero03/Projeto-gerenciador-de-tarefas) para acessar o projeto no Replit.  
-2. Pressione o botão **"Run"** (triângulo verde) no topo da página.  
+2. Pressione o botão **"Run"** (triângulo verde)  ou **"stop"## em (cinza) , se trava pressione novamente o botao no topo da página.  
 3. A interface gráfica será exibida, pronta para uso!
 
 > **Nota**: No plano gratuito do Replit, o aplicativo "dorme" após um período sem uso. Basta clicar em "Run" novamente para reativá-lo.
@@ -67,6 +67,8 @@ cd Projeto--gerenciador-de-tarefas
 3. Executre o programa:
  python main.py
 
+---
+
 📂 Estrutura do Projeto
 
 Projeto--gerenciador-de-tarefas/
@@ -79,6 +81,8 @@ Projeto--gerenciador-de-tarefas/
 
 └── README.md       # Este arquivo
 
+---
+
 📜 Licença
 Este projeto é de código aberto e está disponível sob a MIT License.
 
@@ -86,7 +90,12 @@ Este projeto é de código aberto e está disponível sob a MIT License.
 À comunidade Python por ferramentas incríveis.
 Ao Replit por fornecer hospedagem gratuita.
 E a você, por testar e apoiar este projeto!
-Feito com 💙 por José Escudero.
+
+---
+
+Feito  por Jose Escudero (um dev em aprendizado!).
+
+"DEV APRENDIZADO" - Porque cada linha de código é um passo adiante!
 
 
 ---
